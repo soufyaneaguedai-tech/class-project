@@ -21,7 +21,7 @@ nav a{
     font-weight: bold;
 }
 .hero {
-    background-image: url('IMAGES/cycling.jpeg'); /* Gardez votre chemin d'image actuel */
+    background-image: url('IMAGES/cycling.jpeg');
     background-size: cover;
     background-position: center;
     height: 400px;
